@@ -1,0 +1,7 @@
+name: CPvP-Stats
+description: ${project.description}
+version: ${project.version}
+main: io.github.spigotrce.cpvpstats.CPvP
+author: ${author}
+api-version: "1.13"
+depend: [PlaceHolderAPI]
