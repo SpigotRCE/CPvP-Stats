@@ -25,5 +25,6 @@ public class CPvP extends JavaPlugin {
         LOGGER.info("CPvP Stats has been disabled.");
         LOGGER.info("Good bye!");
         LOGGER.info("We hope to meet you once again!");
+        INSTANCE = null;
     }
 }
